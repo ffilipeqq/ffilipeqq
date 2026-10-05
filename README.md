@@ -1,4 +1,4 @@
-<p align="center"> <img src="github-header-banner.png" alt="Filip's Header Banner" width="100%"> </p> <p align="center">  <big><big><strong>T Level Software Development Student | Full Stack Enthusiast</strong></big></big></p> <br>
+<p align="center"> <img src="github-header-banner.png" alt="Filip's Header Banner" width="100%"> </p> <h3 align="center">  <big><big><strong>T Level Software Development Student | Full Stack Enthusiast</strong></big></big></h3> <br>
 <br>
 
 ---
