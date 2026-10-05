@@ -1,14 +1,54 @@
-<h1 align="center">Hey, I'm Filip</h1>
-<h3 align="center">I'm a T Level Software Development student passionate in Full Stack Development.</h3>
+<p align="center">
+  <img src="github-header-banner.png" alt="Filip's Header Banner" width="100%">
+</p>
 
-- 🔭 I’m currently working on **An AI chatbot for my college** as work experience
+<h2 align="center">Hey, I'm Filip 👋</h2>
+<p align="center">
+  <strong>T Level Software Development Student | Full Stack Enthusiast</strong>
+</p>
 
-- 🌱 I’m currently learning **JavaScript, Flask, SQL, & C++**
+<p align="center">
+  <a href="https://dsdfilip.is-a.dev/"><img src="https://shields.io" alt="Portfolio"></a>
+  <a href="mailto:mxrecki.is.a.dev@gmail.com"><img src="https://shields.io" alt="Email"></a>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://dsdfilip.is-a.dev/](https://dsdfilip.is-a.dev/)
+---
 
-- 📫 How to reach me **mxrecki.is.a.dev@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+*   🔭 **Current Work Experience:** Developing an **AI chatbot for my college**.
+*   🌱 **Currently Learning:** Advancing my skills in **JavaScript, Flask, SQL, & C++**.
+*   👨‍💻 **My Projects:** Explore everything over at my [personal portfolio website](https://dsdfilip.is-a.dev/).
+*   📫 **Let's Connect:** You can drop me an email at [mxrecki.is.a.dev@gmail.com](mailto:mxrecki.is.a.dev@gmail.com).
 
+---
+
+<h4 align="center">Programming Languages & Backend</h4>
+<p align="center">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="JavaScript">
+  <img src="https://shields.io++
+-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://shields.io" alt="Flask">
+</p>
+
+<h4 align="center">Frontend & Databases</h4>
+<p align="center">
+  <img src="https://shields.io" alt="HTML5">
+  <img src="https://shields.ioSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://shields.io" alt="MySQL">
+  <img src="https://shields.io" alt="Pandas">
+</p>
+
+<h4 align="center">Hardware, Design & Dev Tools</h4>
+<p align="center">
+  <img src="https://shields.io" alt="Arduino">
+  <img src="https://shields.io" alt="Git">
+  <img src="https://shields.io" alt="Blender">
+  <img src="https://shields.io" alt="Photoshop">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://vercel.app" alt="Filip's GitHub Stats">
+</p>
