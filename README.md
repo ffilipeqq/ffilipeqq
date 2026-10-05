@@ -1,5 +1,4 @@
 <p align="center"> <img src="github-header-banner.png" alt="Filip's Header Banner" width="100%"> </p> <p align="center"> <strong> <font size="5">T Level Software Development Student | Full Stack Enthusiast</font> </strong> </p> <br>
-
 ---
 
 🔭 Currently Working On: Developing an AI chatbot for my college.
