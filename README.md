@@ -4,13 +4,13 @@
 
 <br>
 
-🔭 Currently Working On: Developing an AI chatbot for my college.
+🔭 Currently Working On: **Developing an AI chatbot for my college**.
 
-🌱 Currently Learning: Advancing my skills in JavaScript, Flask, SQL, & C++.
+🌱 Currently Learning: Advancing my skills in **JavaScript, Flask, SQL, & C++**.
 
-👨‍💻 My Projects: Explore everything over at my Portfolio Website.
+👨‍💻 My Projects: Explore everything over at my **[Portfolio Website](https://dsdfilip.is-a.dev/)**.
 
-📫 Let's Connect: You can drop me an email at mxrecki.is.a.dev@gmail.com
+📫 Let's Connect: You can drop me an email at **mxrecki.is.a.dev@gmail.com**
 
 <br>
 
