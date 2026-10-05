@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Filip</h1>
 <h3 align="center">I'm a T Level Software Development student passionate in Full Stack Development.</h3>
 
-- 🔭 I’m currently working on **An AI chatbot for my college**
+- 🔭 I’m currently working on **An AI chatbot for my college** as work experience
 
 - 🌱 I’m currently learning **JavaScript, Flask, SQL, & C++**
 
