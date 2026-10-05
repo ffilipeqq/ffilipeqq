@@ -2,6 +2,7 @@
 
 ---
 
+<br>
 🔭 Currently Working On: Developing an AI chatbot for my college.
 
 🌱 Currently Learning: Advancing my skills in JavaScript, Flask, SQL, & C++.
@@ -9,6 +10,7 @@
 👨‍💻 My Projects: Explore everything over at my Portfolio Website.
 
 📫 Let's Connect: You can drop me an email at mxrecki.is.a.dev@gmail.com
+<br>
 
 ---
 
