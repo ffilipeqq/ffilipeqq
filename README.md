@@ -4,7 +4,7 @@
 
 🔭 Currently Working On: **Developing an AI chatbot for my college**.
 
-🌱 Currently Learning: Advancing my skills in JavaScript, Flask, SQL, & C++.
+🌱 Currently Learning: Advancing my skills in **JavaScript, Flask, SQL, & C++**.
 
 👨‍💻 My Projects: Explore everything over at my **[Portfolio Website](https://dsdfilip.is-a.dev/)**.
 
