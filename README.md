@@ -2,7 +2,6 @@
   <img src="github-header-banner.png" alt="Filip's Header Banner" width="100%">
 </p>
 
-<h2 align="center">Hey, I'm Filip 👋</h2>
 <p align="center">
   <strong>T Level Software Development Student | Full Stack Enthusiast</strong>
 </p>
