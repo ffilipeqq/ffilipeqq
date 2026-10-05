@@ -4,13 +4,13 @@
 
 <br>
 
-🖥️ Currently Working On: **Developing an AI chatbot for my college**.
+<img src="https://cdn.simpleicons.org/robot/FFFFFF" alt="AI" width="20" height="20"> Currently Working On: **Developing an AI chatbot for my college**.
 
-📖 Currently Learning: Advancing my skills in **JavaScript, Flask, SQL, & C++**.
+<img src="https://cdn.simpleicons.org/learning/FFFFFF" alt="Learning" width="20" height="20"> Currently Learning: Advancing my skills in **JavaScript, Flask, SQL, & C++**.
 
-🌐 My Projects: Explore everything over at my **[Portfolio Website](https://dsdfilip.is-a.dev/)**.
+<img src="https://cdn.simpleicons.org/internetarchive/FFFFFF" alt="Projects" width="20" height="20"> My Projects: Explore everything over at my **[Portfolio Website](https://dsdfilip.is-a.dev/)**.
 
-✉️ Contact: You can drop me an email at **mxrecki.is.a.dev@gmail.com**
+<img src="https://cdn.simpleicons.org/gmail/FFFFFF" alt="Email" width="20" height="20"> Contact: You can drop me an email at **mxrecki.is.a.dev@gmail.com**
 
 <br>
 
