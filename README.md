@@ -10,7 +10,7 @@
 
 🌐 My Projects: Explore everything over at my **[Portfolio Website](https://dsdfilip.is-a.dev/)**.
 
-✉️ Contact: You can drop me an email at **mxrecki.is.a.dev@gmail.com**
+✉️ Contact: You can drop me an email at **ffilipeqq.dev@gmail.com**
 
 <br>
 
